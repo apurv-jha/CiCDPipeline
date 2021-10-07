@@ -1,0 +1,472 @@
+[2020-08-13T05:38:52.466+0000] INFO (22944 -./k2a.rb): checking 0015000000pt8lDAAQ with report uid e1f8aa54-dd25-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 443.421,
+  "requestId": "3811f009-55f8-4ab7-9eba-db3e2013b9af",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:38:54.630+0000] INFO (22944 -./k2a.rb): checking 0015000001HyT7OAAV with report uid e2227a1e-dd25-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 412.066,
+  "requestId": "2d3d601f-317d-4243-8cd4-bce8191fc646",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:52:50.569+0000] INFO (23883 -./k2a.rb): checking 0012J00002KxoX0QAJ with report uid 638210e5-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 156.364,
+  "requestId": "51b10aa4-c97f-4136-895c-102323d82000",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:53:33.686+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0012J00002KxoX0QAJ
+[2020-08-13T05:53:33.689+0000] INFO (23883 -./k2a.rb): checking 0012J00002KwrsQQAR with report uid 63926418-dd28-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 347.604,
+  "requestId": "2e7767fd-f1c5-423b-b0bf-8416f91d9aa7",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:54:13.689+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0012J00002KwrsQQAR
+[2020-08-13T05:54:13.699+0000] INFO (23883 -./k2a.rb): checking 0015000000dUPzvAAG with report uid 63a41817-dd28-11ea-845f-46b81ded5123
+  "executionTimeInSec": 360.728,
+  "requestId": "58b264ed-bbaa-4dad-94a8-09485c9f3bfe",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:54:28.135+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0015000000dUPzvAAG
+[2020-08-13T05:54:28.139+0000] INFO (23883 -./k2a.rb): checking 0015000000kbn47AAA with report uid 63b5080d-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 338.294,
+  "requestId": "8ad7a1dd-fef1-4883-9334-277a33653a46",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:54:33.955+0000] INFO (23883 -./k2a.rb): checking 00150000017aLBYAA2 with report uid 63d47641-dd28-11ea-845f-46b81ded5123
+  "executionTimeInSec": 384.205,
+  "requestId": "dc353057-88fe-4f13-87df-0d0e8e155613",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:54:37.420+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 00150000017aLBYAA2
+[2020-08-13T05:54:37.426+0000] INFO (23883 -./k2a.rb): checking 0015000001DHXrgAAH with report uid 63e231e2-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 383.167,
+  "requestId": "4c27f5b1-b330-4a63-a050-208a905d75fc",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:54:40.836+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0015000001DHXrgAAH
+[2020-08-13T05:54:40.841+0000] INFO (23883 -./k2a.rb): checking 0015000001Jakw7AAB with report uid 63ef0333-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 369.613,
+  "requestId": "f0e72f63-a61a-46ff-a01e-bebbcd876514",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:54:44.448+0000] INFO (23883 -./k2a.rb): checking 0012J00002Jkp7eQAB with report uid 64085786-dd28-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 339.079,
+  "requestId": "ad92ba6e-efed-445d-8984-3dbed975b575",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:54:47.866+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0012J00002Jkp7eQAB
+[2020-08-13T05:54:47.875+0000] INFO (23883 -./k2a.rb): checking 0012J00002JjmWZQAZ with report uid 6416d6f1-dd28-11ea-845f-46b81ded5123
+  "executionTimeInSec": 391.981,
+  "requestId": "8c0d72e3-a1ec-4145-a4c7-c3ed63dedb57",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:54:51.255+0000] INFO (23883 -./k2a.rb): checking 0012J00002JmT6HQAV with report uid 644c8cd5-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 177.56,
+  "requestId": "b7eb458b-bbfe-4dd9-b900-710932b5b1d5",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:54:54.755+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0012J00002JmT6HQAV
+[2020-08-13T05:54:54.757+0000] INFO (23883 -./k2a.rb): checking 0012J00002Llcj1QAB with report uid 645c6b6e-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 381.816,
+  "requestId": "46ab6e19-8f57-445c-93ba-9ab013aace30",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:54:58.131+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0012J00002Llcj1QAB
+[2020-08-13T05:54:58.134+0000] INFO (23883 -./k2a.rb): checking 0015000000g3L46AAE with report uid 646bad40-dd28-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 400.284,
+  "requestId": "fca41816-f7fa-495c-b339-1a013576b27c",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:55:01.738+0000] INFO (23883 -./k2a.rb): checking 0015000001GHzWTAA1 with report uid 6494dfda-dd28-11ea-845f-46b81ded5123
+  "executionTimeInSec": 412.683,
+  "requestId": "a54a9104-3b7e-462b-85c7-3574fd06f819",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:55:05.124+0000] INFO (23883 -./k2a.rb): checking 0015000001OKPsLAAX with report uid 64aed0d2-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 391.559,
+  "requestId": "8f60c78f-d341-4e14-8f11-598877a50d35",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:55:08.665+0000] INFO (23883 -./k2a.rb): checking 0015000000NF4rtAAD with report uid 64cc439b-dd28-11ea-845f-46b81ded5123
+  "executionTimeInSec": 410.877,
+  "requestId": "ff55a201-c726-48d1-a716-3d977900d7cf",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:55:11.903+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0015000000NF4rtAAD
+[2020-08-13T05:55:11.908+0000] INFO (23883 -./k2a.rb): checking 0012J00002LmcGTQAZ with report uid 64da74be-dd28-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 336.595,
+  "requestId": "4fb13b31-442e-41f0-9e7f-4f29c6404ced",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:55:15.776+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0012J00002LmcGTQAZ
+[2020-08-13T05:55:15.779+0000] INFO (23883 -./k2a.rb): checking 0015000000SsQ8BAAV with report uid 64e6aa36-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 404.849,
+  "requestId": "d698e8fd-01e5-4a3f-9420-e99c0619027d",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:55:19.429+0000] INFO (23883 -./k2a.rb): checking 0015000000sKGHVAA4 with report uid 64ff88f8-dd28-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 405.631,
+  "requestId": "8276c980-a2a3-4693-adbe-fb79d048dcb0",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:55:23.032+0000] INFO (23883 -./k2a.rb): checking 0015000001HxPoxAAF with report uid 652a4201-dd28-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 420.639,
+  "requestId": "1f12d40c-47cb-40e1-adb8-a6c23ee392fe",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T05:55:26.367+0000] INFO (23883 -./k2a.rb): checking 0015000001NI9WcAAL with report uid 653f030c-dd28-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 420.439,
+  "requestId": "bafde3f9-7258-4d80-beb7-f81e7d2ab424",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:55:29.781+0000] INFO (23883 -./k2a.rb): alto redirect successfully set for 0015000001NI9WcAAL
+[2020-08-13T05:55:29.784+0000] INFO (23883 -./k2a.rb): checking 0015000001U1Z15AAF with report uid 654a7473-dd28-11ea-845f-46b81ded5123
+  "executionTimeInSec": 440.458,
+  "requestId": "a9a84dbc-e9bb-4976-9131-627579c1e5b8",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T05:58:14.878+0000] INFO (24225 -./k2a.rb): checked token API-KEY=5df14a8f0b50cf0001f60ea007f0a915e9364a55bc25848d5ccb059e, looks good
+[2020-08-13T05:58:14.879+0000] INFO (24225 -./k2a.rb): checking 0015000001U2kPjAAJ with report uid 6365d645-dd28-11ea-845f-46b81ded5123
+  "executionTimeInSec": 401.037,
+  "requestId": "901cc1ba-37b5-4278-94e6-a14c045a16a7",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:08:56.826+0000] INFO (24943 -./k2a.rb): checked token API-KEY=5df14a8f0b50cf0001f60ea007f0a915e9364a55bc25848d5ccb059e, looks good
+[2020-08-13T06:08:56.826+0000] INFO (24943 -./k2a.rb): checking 0012J00002Jkan1QAB with report uid ca865eda-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 115.178,
+  "requestId": "183da001-0ccf-4294-921d-758f1d06efa0",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:08:58.239+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0012J00002Jkan1QAB
+[2020-08-13T06:08:58.242+0000] INFO (24943 -./k2a.rb): checking 0015000000zvQ5UAAU with report uid ca988763-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 115.247,
+  "requestId": "36b66cc3-30ab-411e-9a26-cc84b09d31f0",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:08:59.753+0000] INFO (24943 -./k2a.rb): checking 0015000001ULiGTAA1 with report uid cab6e4f0-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 110.02,
+  "requestId": "e80e1c84-628f-41b2-b0b3-f144a964be4c",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:09:01.276+0000] INFO (24943 -./k2a.rb): checking 0015000001XBOFzAAP with report uid cade431a-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 234.643,
+  "requestId": "7f2066bd-6181-42f4-ae50-a6bc40639d58",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:02.707+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001XBOFzAAP
+[2020-08-13T06:09:02.710+0000] INFO (24943 -./k2a.rb): checking 0015000001lIpnsAAC with report uid caf770a0-dd2a-11ea-845f-46b81ded5123
+  "executionTimeInSec": 173.063,
+  "requestId": "fb4c429b-139f-4085-848b-3536eebd4b80",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:04.061+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001lIpnsAAC
+[2020-08-13T06:09:04.064+0000] INFO (24943 -./k2a.rb): checking 0015000001lIkKeAAK with report uid cb233ae5-dd2a-11ea-845f-46b81ded5123
+  "executionTimeInSec": 188.374,
+  "requestId": "3ad7746b-ce41-4319-9f75-c45810247031",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:05.463+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001lIkKeAAK
+[2020-08-13T06:09:05.466+0000] INFO (24943 -./k2a.rb): checking 0015000001lKZCSAA4 with report uid cb2efa98-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 184.072,
+  "requestId": "7eb796e9-a962-4539-805e-78369b4176ac",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:07.598+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001lKZCSAA4
+[2020-08-13T06:09:07.601+0000] INFO (24943 -./k2a.rb): checking 0015000001lIRKHAA4 with report uid cb3a4551-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 187.331,
+  "requestId": "c4300d3a-ce96-49cf-aed4-4bcb3f91de8c",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:09:08.956+0000] INFO (24943 -./k2a.rb): checking 0015000002EirtRAAR with report uid cb55203e-dd2a-11ea-845f-46b81ded5123
+  "executionTimeInSec": 187.838,
+  "requestId": "407710ee-0e5f-441a-afa7-c8f61ebcf5b2",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:10.435+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000002EirtRAAR
+[2020-08-13T06:09:10.438+0000] INFO (24943 -./k2a.rb): checking 0015000002EkC0oAAF with report uid cb696c2e-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 204.984,
+  "requestId": "34f4b80b-e416-4e86-a2f1-56d860b87bc3",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:09:11.855+0000] INFO (24943 -./k2a.rb): checking 0012J00002Emg1MQAR with report uid cb8b9a2c-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 187.004,
+  "requestId": "1a695eee-d149-4e8b-b9b1-7c5827db9270",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:13.141+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0012J00002Emg1MQAR
+[2020-08-13T06:09:13.145+0000] INFO (24943 -./k2a.rb): checking 0012J00002JjNpkQAF with report uid cb975a08-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 131.288,
+  "requestId": "bd0b3961-14ed-4e90-8b64-b79cc7998741",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:14.511+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0012J00002JjNpkQAF
+[2020-08-13T06:09:14.514+0000] INFO (24943 -./k2a.rb): checking 0015000000g10kBAAQ with report uid cba25698-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 199.775,
+  "requestId": "240b1763-8f53-4066-99bb-8b2426241973",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:09:16.183+0000] INFO (24943 -./k2a.rb): checking 0015000000VqE11AAF with report uid cbd1ca89-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 185.698,
+  "requestId": "48933a13-6404-4e8a-96d0-ef66683e3e53",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:17.872+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000000VqE11AAF
+[2020-08-13T06:09:17.875+0000] INFO (24943 -./k2a.rb): checking 0015000001lIC3GAAW with report uid cbe68b4e-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 199.179,
+  "requestId": "af6fce76-6889-4c48-9f21-bf6ea2dcc25a",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:09:19.259+0000] INFO (24943 -./k2a.rb): checking 0015000001R9LylAAF with report uid cbfece86-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 199.626,
+  "requestId": "a3e905e0-2ae5-437c-9537-f48b3d9f8492",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:20.507+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001R9LylAAF
+[2020-08-13T06:09:20.511+0000] INFO (24943 -./k2a.rb): checking 0015000001U2DyUAAV with report uid cc086a98-dd2a-11ea-845f-46b81ded5123
+  "executionTimeInSec": 194.369,
+  "requestId": "a231bc09-6074-4dea-8450-81d4f39a0e21",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:09:21.919+0000] INFO (24943 -./k2a.rb): checking 0015000001YyH3mAAF with report uid cc1ed97c-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 197.865,
+  "requestId": "81cc6203-4190-46f2-9816-9093740fb5f6",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:23.155+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001YyH3mAAF
+[2020-08-13T06:09:23.157+0000] INFO (24943 -./k2a.rb): checking 0015000001lKNokAAG with report uid cc2a4b36-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 203.73,
+  "requestId": "198849ea-5ab4-4531-b715-e687c21dbce4",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:24.378+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001lKNokAAG
+[2020-08-13T06:09:24.381+0000] INFO (24943 -./k2a.rb): checking 0015000001lL3HYAA0 with report uid cc359600-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 255.208,
+  "requestId": "40834bdb-ad31-442f-b7db-dbc38b2ec4cd",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:25.646+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000001lL3HYAA0
+[2020-08-13T06:09:25.649+0000] INFO (24943 -./k2a.rb): checking 0015000002EktMJAAZ with report uid cc42666c-dd2a-11ea-845f-46b81ded5123
+  "executionTimeInSec": 297.863,
+  "requestId": "bd931d27-69f9-4b27-9fde-46db13be9626",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:27.750+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000002EktMJAAZ
+[2020-08-13T06:09:27.753+0000] INFO (24943 -./k2a.rb): checking 0015000002EkzYYAAZ with report uid cc4e9c4a-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 191.258,
+  "requestId": "69b67b8d-2bac-427c-872a-c640589ad085",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:29.036+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000002EkzYYAAZ
+[2020-08-13T06:09:29.039+0000] INFO (24943 -./k2a.rb): checking 0015000002ElqAoAAJ with report uid cc58fc60-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 203.86,
+  "requestId": "04d790c5-3abc-4a1f-84d4-40f5e728831d",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:30.460+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000002ElqAoAAJ
+[2020-08-13T06:09:30.464+0000] INFO (24943 -./k2a.rb): checking 0015000002EjFiPAAV with report uid cc644656-dd2a-11ea-845f-46b81ded5123
+  "executionTimeInSec": 236.374,
+  "requestId": "ba913e18-6dbe-4fa9-bc40-af7d02665ce5",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:09:31.786+0000] INFO (24943 -./k2a.rb): alto redirect successfully set for 0015000002EjFiPAAV
+[2020-08-13T06:09:31.789+0000] INFO (24943 -./k2a.rb): checking 0015000002EjQakAAF with report uid cc6de324-dd2a-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 195.954,
+  "requestId": "8aa70756-5efe-42e2-ad41-16e2202da5c4",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:12:33.354+0000] INFO (25208 -./k2a.rb): checking 0015000001V1t8FAAR with report uid cad086d7-dd2a-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 355.219,
+  "requestId": "f239cb7c-228a-43f0-a3ed-39f62dc5e170",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:26:16.122+0000] INFO (26007 -./k2a.rb): checking 0012J00002JjfLrQAJ with report uid e2d4ae8b-dd2c-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 397.333,
+  "requestId": "04a357d4-5557-4fb6-a266-7550b5cb22d7",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:18.263+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0012J00002JjfLrQAJ
+[2020-08-13T06:26:18.267+0000] INFO (26007 -./k2a.rb): checking 0012J00002JkT1qQAF with report uid e2e4b3ce-dd2c-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 401.758,
+  "requestId": "4d16b8b4-0dcb-46df-a94c-53058c1e1f81",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:19.641+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0012J00002JkT1qQAF
+[2020-08-13T06:26:19.644+0000] INFO (26007 -./k2a.rb): checking 0015000001ULKp2AAH with report uid e2f6b587-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 401.593,
+  "requestId": "c273fecc-935a-4203-93e9-022a70851d9f",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:26:21.228+0000] INFO (26007 -./k2a.rb): checking 0015000001Y04OeAAJ with report uid e31f257a-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 394.601,
+  "requestId": "5f254b9e-ba69-401f-be31-45a5a99ff151",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:22.566+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0015000001Y04OeAAJ
+[2020-08-13T06:26:22.569+0000] INFO (26007 -./k2a.rb): checking 0015000001XAXbrAAH with report uid e3487ec2-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 394.605,
+  "requestId": "3341cf5e-3390-4985-8c00-a554e013e6a0",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:23.964+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0015000001XAXbrAAH
+[2020-08-13T06:26:23.967+0000] INFO (26007 -./k2a.rb): checking 0015000001lL8mqAAC with report uid e35e2a7f-dd2c-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 396.617,
+  "requestId": "26b22357-2399-417a-ba5f-18fc255b9e5e",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:25.335+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0015000001lL8mqAAC
+[2020-08-13T06:26:25.338+0000] INFO (26007 -./k2a.rb): checking 0012J00002EmS07QAF with report uid e36c3362-dd2c-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 394.378,
+  "requestId": "2bd6668b-3739-426b-bca6-08ae1053d540",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:26.681+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0012J00002EmS07QAF
+[2020-08-13T06:26:26.684+0000] INFO (26007 -./k2a.rb): checking 0015000000aqw79AAA with report uid e3761f17-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 400.349,
+  "requestId": "6c8d1937-06ae-432f-a9c6-c2f0ecd72746",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:26:28.606+0000] INFO (26007 -./k2a.rb): checking 00150000011N0d3AAC with report uid e3936a9c-dd2c-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 394.074,
+  "requestId": "08792b8b-05e8-465b-8ace-b0e58438a355",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:29.970+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 00150000011N0d3AAC
+[2020-08-13T06:26:29.973+0000] INFO (26007 -./k2a.rb): checking 0015000001AAqGaAAL with report uid e3a9b19c-dd2c-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 397.876,
+  "requestId": "71fb9ab7-97ec-4968-ba77-2ddaa7b17572",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:31.211+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0015000001AAqGaAAL
+[2020-08-13T06:26:31.214+0000] INFO (26007 -./k2a.rb): checking 0015000001V0z7PAAR with report uid e3b6d153-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 397.97,
+  "requestId": "ca0e3d67-0045-44fe-b02d-85eeb70edc43",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:26:32.704+0000] INFO (26007 -./k2a.rb): checking 0015000001YyFEKAA3 with report uid e3dc33b8-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 403.02,
+  "requestId": "d677f7f3-950c-4f7b-ae8d-e879a7fe6920",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:26:34.017+0000] INFO (26007 -./k2a.rb): checking 0015000002Ej07iAAB with report uid e3f11b52-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 399.995,
+  "requestId": "4ac59a8b-36ac-4089-af41-1dd1a0cb56fa",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:35.348+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0015000002Ej07iAAB
+[2020-08-13T06:26:35.351+0000] INFO (26007 -./k2a.rb): checking 0015000001lLVILAA4 with report uid e403b94f-dd2c-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 390.932,
+  "requestId": "3b2fbe00-6785-4746-9940-b61447e05c4c",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:26:36.767+0000] INFO (26007 -./k2a.rb): checking 0015000001lLKvuAAG with report uid e41d0d5c-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 408.485,
+  "requestId": "7d68599a-d4e0-45f4-bc27-34d3c820f8c9",
+--
+  "state": "COMPLETED",
+--
+}
+[2020-08-13T06:26:38.732+0000] INFO (26007 -./k2a.rb): checking 0015000000j7CwcAAE with report uid e439bd26-dd2c-11ea-845f-46b81ded5123
+  "executionTimeInSec": 404.205,
+  "requestId": "753398b9-bb25-4400-9072-c815a6f3c35a",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:40.026+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0015000000j7CwcAAE
+[2020-08-13T06:26:40.029+0000] INFO (26007 -./k2a.rb): checking 0015000001UzVQbAAN with report uid e4455543-dd2c-11ea-9598-6ea53efe85ee
+  "executionTimeInSec": 392.868,
+  "requestId": "45d7d2d7-f18c-4339-889d-d47b19c164f7",
+--
+  "state": "COMPLETED",
+--
+[2020-08-13T06:26:41.402+0000] INFO (26007 -./k2a.rb): alto redirect successfully set for 0015000001UzVQbAAN
+[2020-08-13T06:26:41.405+0000] INFO (26007 -./k2a.rb): checking 0015000001V0THJAA3 with report uid e451637e-dd2c-11ea-aea9-06034b3b48cc
+  "executionTimeInSec": 408.228,
+  "requestId": "d32ed22c-ad74-46da-9f45-c7b9435bf186",
